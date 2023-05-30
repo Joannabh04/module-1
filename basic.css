@@ -1,5 +1,7 @@
 body {
     background-color: rgb(206, 166, 188);
+    background: rgb(34,193,195);
+    background: linear-gradient(0deg, rgba(34,193,195,1) 0%, rgba(181,124,176,1) 100%);
   }
   
   h1 {
